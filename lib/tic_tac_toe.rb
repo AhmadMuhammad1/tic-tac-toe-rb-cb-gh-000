@@ -99,3 +99,7 @@ def winner(board)
     return "O"
   end
 end
+
+def play(board)
+  
+end
